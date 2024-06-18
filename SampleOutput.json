@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 2,
+    "totalResults": 3,
     "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Michael Clarke goes public with new flame",
+            "description": "Former Australian cricket captain Michael Clarke is all loved up.",
+            "url": "https://www.news.com.au/sport/sports-life/michael-clarke-goes-public-with-new-flame-on-gold-coast-holiday/news-story/8278302c644f9d136328258b588c6b90",
+            "urlToImage": "https://content.api.news/v3/images/bin/1088fbce32962a009380812a7e7c7c2f",
+            "publishedAt": "2024-06-17T01:42:00Z",
+            "content": "Former Australian cricket captain Michael Clarke is all loved up.\r\nThe 43-year-old was spotted out and about with his reported new flame, Arabella Sherborne.\r\nGet on board Kayo and watch every game o… [+2840 chars]"
+        },
         {
             "source": {
                 "id": "espn-cric-info",
